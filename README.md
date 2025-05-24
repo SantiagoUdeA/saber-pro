@@ -1,14 +1,14 @@
 # Integrantes
 Santiago Zapata Barahona    
-C.C 1000761614 <br>
+C.C. 1000761614 <br>
 Ingenieria de sistemas
 
 Mateo Gaviria Ruiz          
-CC:1001660981 <br>
+C.C. 1001660981 <br>
 Ingeniería de sitemas
 
-Jose Luis Murillo Fernández
-CC:1152718147 <br>
+Jose Luis Murillo Fernández <br>
+C.C. 1152718147 <br>
 Ingeniería de sitemas
 
 # Video segunda entrega
